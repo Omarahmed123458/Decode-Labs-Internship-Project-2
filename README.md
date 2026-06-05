@@ -13,5 +13,5 @@ Python 3
 - Open the terminal
 - Run:
 ```bash
-python main.py
+python Project2_Decodelabs.py
 ```
