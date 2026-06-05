@@ -15,3 +15,19 @@ Python 3
 ```bash
 python Project2_Decodelabs.py
 ```
+##Example output
+Enter the expense: 100
+The total expenses = 100
+
+Enter the expense: 50
+The total expenses = 150
+
+Do you want to continue adding? Y/N N
+
+===== Expense Summary =====
+The total expenses of this transaction is: 150
+Average expense: 75.0
+Largest expense: 100
+Smallest expense: 50
+Number of transactions: 2
+Good bye
